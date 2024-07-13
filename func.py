@@ -1,6 +1,6 @@
 def suma(*num):
     return sum(num)
 
-print (suma(8,4,8,7,5))
+print (suma(2,4,2,7,5))
 
 
